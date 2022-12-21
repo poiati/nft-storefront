@@ -1,4 +1,4 @@
-module github.com/onflow/nft-storefront/lib/go/contracts
+module github.com/poiati/nft-storefront/lib/go/contracts
 
 go 1.18
 
